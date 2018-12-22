@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>packer.krpano.test</string>
+				<string>com.tycyl.pack</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
